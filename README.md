@@ -92,7 +92,7 @@ AtliQ is a fast-growing hardware company that sells various products to customer
 [Business Insight 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjliNjNlZTctODU3Zi00YTIyLWI1NDktYjU4OWU5ZDg0OGNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## LinkedIn:
-[My LinkedIn Profile](#)
+[My LinkedIn Profile]([#](https://www.linkedin.com/posts/vishal-desai-543b15236_dataanalytics-powerbi-sql-activity-7215316089503670272-JKlO?utm_source=share&utm_medium=member_desktop))
 
 I would like to thank the entire Codebasics team, Dhaval Patel, and Hemanand Vadivel for creating this in-depth course. Their guidance and insights have been invaluable, making this Power BI project an enriching learning experience. I am grateful for the knowledge and skills gained through their expertise.
 
